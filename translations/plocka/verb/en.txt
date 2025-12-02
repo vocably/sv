@@ -1,0 +1,4 @@
+pick
+gather
+collect
+pluck

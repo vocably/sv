@@ -1,0 +1,5 @@
+firm
+solid
+fixed
+steady
+tight

@@ -1,0 +1,4 @@
+distortion
+bias
+skewing
+misalignment

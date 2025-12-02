@@ -1,0 +1,3 @@
+cleans
+is cleaning
+does clean

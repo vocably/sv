@@ -1,0 +1,4 @@
+hit
+strike
+blow
+beat

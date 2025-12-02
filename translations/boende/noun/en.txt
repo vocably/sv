@@ -1,0 +1,4 @@
+housing
+accommodation
+residence
+dwelling

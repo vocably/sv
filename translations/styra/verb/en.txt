@@ -1,0 +1,5 @@
+steer
+control
+govern
+direct
+rule

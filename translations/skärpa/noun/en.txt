@@ -1,0 +1,5 @@
+sharpness
+focus
+clarity
+acuity
+keenness

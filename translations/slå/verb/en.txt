@@ -1,0 +1,10 @@
+hit
+strike
+beat
+knock
+punch
+slam
+smash
+whip
+crash
+pound
