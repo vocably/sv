@@ -1,0 +1,4 @@
+voice
+vote
+say
+ballot

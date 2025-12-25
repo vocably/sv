@@ -1,0 +1,5 @@
+ailments
+complaints
+disorders
+afflictions
+maladies

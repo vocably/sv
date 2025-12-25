@@ -1,0 +1,4 @@
+collaborates
+cooperates
+works together
+partners

@@ -1,0 +1,6 @@
+level
+grade
+standard
+position
+status
+plane

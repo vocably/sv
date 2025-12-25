@@ -1,0 +1,4 @@
+votes
+casts a vote
+is voting
+is casting a vote

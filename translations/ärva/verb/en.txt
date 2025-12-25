@@ -1,0 +1,4 @@
+inherit
+bequeathed
+acquirable
+derive

@@ -1,0 +1,5 @@
+theory
+hypothesis
+conjecture
+postulate
+thesis

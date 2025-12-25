@@ -1,0 +1,7 @@
+part
+section
+piece
+segment
+passage
+cannon
+artillery piece
