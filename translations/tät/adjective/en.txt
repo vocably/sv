@@ -1,0 +1,4 @@
+tight
+dense
+frequent
+rich
