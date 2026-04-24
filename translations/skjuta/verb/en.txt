@@ -1,0 +1,5 @@
+shoot
+fire
+postpone
+push
+delay

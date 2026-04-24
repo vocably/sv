@@ -1,0 +1,4 @@
+applies
+is valid
+concerns
+is about

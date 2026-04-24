@@ -1,0 +1,4 @@
+stock
+fund
+background
+fondness

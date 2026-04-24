@@ -1,0 +1,3 @@
+warn
+caution
+advise against

@@ -1,0 +1,3 @@
+rays
+beams
+petals
