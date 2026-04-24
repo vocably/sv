@@ -1,1 +1,4 @@
-["Dispositioun","Uerdnung","Veranlagung","Stëmmung"]
+Dispositioun
+Uerdnung
+Veranlagung
+Stëmmung

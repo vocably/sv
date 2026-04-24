@@ -1,1 +1,4 @@
-["yndieling","beskikking","oanlis","aard"]
+yndieling
+beskikking
+oanlis
+aard

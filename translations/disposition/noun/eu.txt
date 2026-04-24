@@ -1,1 +1,4 @@
-["xedapen","eskura","joera","izaera"]
+xedapen
+eskura
+joera
+izaera

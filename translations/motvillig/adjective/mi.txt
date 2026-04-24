@@ -1,1 +1,2 @@
-["ngākau kore","pōrearea"]
+ngākau kore
+pōrearea

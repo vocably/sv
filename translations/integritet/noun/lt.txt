@@ -1,1 +1,2 @@
-["vientisumas","neliečiamumas"]
+vientisumas
+neliečiamumas

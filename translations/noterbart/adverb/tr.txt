@@ -1,1 +1,2 @@
-["dikkate değer","kayda değer"]
+dikkate değer
+kayda değer

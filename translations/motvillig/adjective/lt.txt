@@ -1,1 +1,2 @@
-["nenoriai","priešingai"]
+nenoriai
+priešingai

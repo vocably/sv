@@ -1,1 +1,2 @@
-["postupný","pozvoľný"]
+postupný
+pozvoľný

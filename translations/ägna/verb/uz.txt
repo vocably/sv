@@ -1,1 +1,2 @@
-["bag'ishlamoq","sarflamoq"]
+bag'ishlamoq
+sarflamoq

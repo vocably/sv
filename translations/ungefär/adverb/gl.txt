@@ -1,1 +1,2 @@
-["aproximadamente","arredor"]
+aproximadamente
+arredor

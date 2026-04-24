@@ -1,1 +1,2 @@
-["balukar","epek"]
+balukar
+epek

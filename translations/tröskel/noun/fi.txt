@@ -1,1 +1,2 @@
-["kynnys","raja"]
+kynnys
+raja

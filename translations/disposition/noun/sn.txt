@@ -1,1 +1,4 @@
-["urongwa","kushandisa","kugona","hunhu"]
+urongwa
+kushandisa
+kugona
+hunhu

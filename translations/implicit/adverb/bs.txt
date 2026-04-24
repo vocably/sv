@@ -1,1 +1,2 @@
-["implicitno","podrazumijevano"]
+implicitno
+podrazumijevano

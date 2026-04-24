@@ -1,1 +1,4 @@
-["joylashuv","foydalanish","moyillik","xarakter"]
+joylashuv
+foydalanish
+moyillik
+xarakter

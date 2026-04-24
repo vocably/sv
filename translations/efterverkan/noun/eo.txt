@@ -1,1 +1,2 @@
-["postefiko","postsekvo"]
+postefiko
+postsekvo

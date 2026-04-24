@@ -1,1 +1,2 @@
-["e'tiborsiz qoldirmoq","bajarilmay qolmoq"]
+e'tiborsiz qoldirmoq
+bajarilmay qolmoq

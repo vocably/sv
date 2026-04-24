@@ -1,1 +1,2 @@
-["neiblesskip","neigefolch"]
+neiblesskip
+neigefolch

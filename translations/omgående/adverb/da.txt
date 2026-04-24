@@ -1,1 +1,2 @@
-["omgående","straks"]
+omgående
+straks

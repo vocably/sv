@@ -1,1 +1,2 @@
-["notablemente","remarcablemente"]
+notablemente
+remarcablemente

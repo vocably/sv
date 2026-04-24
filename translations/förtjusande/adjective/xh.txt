@@ -1,1 +1,2 @@
-["ntle","nomtsalane"]
+ntle
+nomtsalane

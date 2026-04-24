@@ -1,1 +1,2 @@
-["znaczący","istotny"]
+znaczący
+istotny

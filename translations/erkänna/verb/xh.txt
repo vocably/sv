@@ -1,1 +1,3 @@
-["vuma","xela","qinisekisa"]
+vuma
+xela
+qinisekisa

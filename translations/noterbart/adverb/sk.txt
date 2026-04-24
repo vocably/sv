@@ -1,1 +1,2 @@
-["pozoruhodne","výrazne"]
+pozoruhodne
+výrazne

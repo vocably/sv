@@ -1,1 +1,2 @@
-["tính toàn vẹn","sự liêm chính"]
+tính toàn vẹn
+sự liêm chính

@@ -1,1 +1,2 @@
-["Widderstandsfäegkeet","Resistenz"]
+Widderstandsfäegkeet
+Resistenz

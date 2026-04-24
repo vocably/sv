@@ -1,1 +1,2 @@
-["komprensiv","estensiv"]
+komprensiv
+estensiv

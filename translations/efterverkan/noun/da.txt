@@ -1,1 +1,2 @@
-["eftervirkning","eftereffekt"]
+eftervirkning
+eftereffekt

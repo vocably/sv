@@ -1,1 +1,2 @@
-["bitaraplyk","özbaşdaklyk"]
+bitaraplyk
+özbaşdaklyk

@@ -1,1 +1,4 @@
-["imiterere","ubushobozi","uburyo","imigambi"]
+imiterere
+ubushobozi
+uburyo
+imigambi

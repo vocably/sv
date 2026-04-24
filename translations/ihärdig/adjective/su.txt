@@ -1,1 +1,2 @@
-["kukuh","teguh"]
+kukuh
+teguh

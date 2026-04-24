@@ -1,1 +1,2 @@
-["maj mam","ntuav ntus"]
+maj mam
+ntuav ntus

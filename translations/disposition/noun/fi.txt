@@ -1,1 +1,4 @@
-["dispositio","käyttö","alttius","luonne"]
+dispositio
+käyttö
+alttius
+luonne

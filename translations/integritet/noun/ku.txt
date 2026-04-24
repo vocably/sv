@@ -1,1 +1,2 @@
-["yekparebûn","serxwebûn"]
+yekparebûn
+serxwebûn

@@ -1,1 +1,2 @@
-["abondo","suficiente"]
+abondo
+suficiente

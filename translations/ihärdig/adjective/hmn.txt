@@ -1,1 +1,2 @@
-["ua siab ntev","ua siab loj"]
+ua siab ntev
+ua siab loj

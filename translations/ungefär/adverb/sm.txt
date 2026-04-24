@@ -1,1 +1,2 @@
-["tusa","pe tusa"]
+tusa
+pe tusa

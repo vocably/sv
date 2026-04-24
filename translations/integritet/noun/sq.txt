@@ -1,1 +1,2 @@
-["integritet","paprekshmëri"]
+integritet
+paprekshmëri

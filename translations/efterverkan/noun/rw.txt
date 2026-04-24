@@ -1,1 +1,2 @@
-["ingaruka","ingarukiragutegura"]
+ingaruka
+ingarukiragutegura

@@ -1,1 +1,2 @@
-["dûg","yekser"]
+dûg
+yekser

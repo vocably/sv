@@ -1,1 +1,3 @@
-["qirasho","ogolaansho","aqoonsi"]
+qirasho
+ogolaansho
+aqoonsi

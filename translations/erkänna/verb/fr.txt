@@ -1,1 +1,3 @@
-["reconnaître","avouer","homologuer"]
+reconnaître
+avouer
+homologuer

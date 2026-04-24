@@ -1,1 +1,2 @@
-["zvisina kutaurwa","zvisina kunanga"]
+zvisina kutaurwa
+zvisina kunanga

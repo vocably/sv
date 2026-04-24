@@ -1,1 +1,2 @@
-["go hiondúil","go neamhdhíreach"]
+go hiondúil
+go neamhdhíreach

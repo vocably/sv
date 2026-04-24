@@ -1,1 +1,2 @@
-["bertahap","berangsur-angsur"]
+bertahap
+berangsur-angsur

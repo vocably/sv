@@ -1,1 +1,2 @@
-["ngémutan","mikiran"]
+ngémutan
+mikiran

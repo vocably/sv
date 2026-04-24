@@ -1,1 +1,2 @@
-["neglect","fail"]
+neglect
+fail

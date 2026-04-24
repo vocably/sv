@@ -1,1 +1,2 @@
-["ôl-effaith","canlyniad"]
+ôl-effaith
+canlyniad

@@ -1,1 +1,2 @@
-["tokonana","fetra"]
+tokonana
+fetra

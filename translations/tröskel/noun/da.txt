@@ -1,1 +1,2 @@
-["tærskel","grænse"]
+tærskel
+grænse

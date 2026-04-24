@@ -1,1 +1,2 @@
-["vastupanuvõime","resistiivsus"]
+vastupanuvõime
+resistiivsus

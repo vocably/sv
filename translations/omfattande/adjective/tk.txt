@@ -1,1 +1,2 @@
-["giň","köptaraply"]
+giň
+köptaraply

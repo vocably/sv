@@ -1,1 +1,3 @@
-["ngaku","ngaku salah","ngidinan"]
+ngaku
+ngaku salah
+ngidinan

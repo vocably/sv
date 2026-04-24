@@ -1,1 +1,2 @@
-["wjerstânsfermogen","fearkrêft"]
+wjerstânsfermogen
+fearkrêft

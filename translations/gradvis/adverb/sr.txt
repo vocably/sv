@@ -1,1 +1,2 @@
-["postepen","postepeno"]
+postepen
+postepeno

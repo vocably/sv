@@ -1,1 +1,2 @@
-["noin","likimain"]
+noin
+likimain

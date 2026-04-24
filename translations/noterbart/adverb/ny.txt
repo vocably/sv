@@ -1,1 +1,2 @@
-["chodabwitsa","zodziwika"]
+chodabwitsa
+zodziwika

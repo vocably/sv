@@ -1,1 +1,4 @@
-["dispozice","rozvržení","uspořádání","sklon"]
+dispozice
+rozvržení
+uspořádání
+sklon

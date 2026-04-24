@@ -1,1 +1,2 @@
-["botšepehi","boikemelo"]
+botšepehi
+boikemelo

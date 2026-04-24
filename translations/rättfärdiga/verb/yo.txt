@@ -1,1 +1,2 @@
-["dá lare","sọ di òdodo"]
+dá lare
+sọ di òdodo

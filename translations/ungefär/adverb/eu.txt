@@ -1,1 +1,2 @@
-["gutxi gorabehera","inguru"]
+gutxi gorabehera
+inguru

@@ -1,1 +1,2 @@
-["tapatahi","mana motuhake"]
+tapatahi
+mana motuhake

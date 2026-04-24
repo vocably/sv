@@ -1,1 +1,2 @@
-["zotsatira","chivuno"]
+zotsatira
+chivuno

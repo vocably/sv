@@ -1,1 +1,4 @@
-["dealbh","cur-suas","cothrom","stuamachd"]
+dealbh
+cur-suas
+cothrom
+stuamachd

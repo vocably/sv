@@ -1,1 +1,2 @@
-["Nawierkung","Spéitfolge"]
+Nawierkung
+Spéitfolge

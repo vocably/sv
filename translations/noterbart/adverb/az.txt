@@ -1,1 +1,2 @@
-["diqqətəlayiq","qeyri-adi"]
+diqqətəlayiq
+qeyri-adi

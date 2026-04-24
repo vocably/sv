@@ -1,1 +1,2 @@
-["kururamisa","kupa zvikonzero"]
+kururamisa
+kupa zvikonzero

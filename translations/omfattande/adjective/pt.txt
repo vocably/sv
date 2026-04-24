@@ -1,1 +1,2 @@
-["abrangente","extenso"]
+abrangente
+extenso

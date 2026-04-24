@@ -1,1 +1,2 @@
-["azim","sebatkar"]
+azim
+sebatkar

@@ -1,1 +1,2 @@
-["aşamalı","kademeli"]
+aşamalı
+kademeli

@@ -1,1 +1,2 @@
-["khoảng","xấp xỉ"]
+khoảng
+xấp xỉ

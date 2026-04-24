@@ -1,1 +1,2 @@
-["rezistență","imunitate"]
+rezistență
+imunitate

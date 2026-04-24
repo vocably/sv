@@ -1,1 +1,2 @@
-["meluangkan","menumpukan"]
+meluangkan
+menumpukan

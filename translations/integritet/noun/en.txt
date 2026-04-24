@@ -1,1 +1,2 @@
-["integrity","privacy"]
+integrity
+privacy

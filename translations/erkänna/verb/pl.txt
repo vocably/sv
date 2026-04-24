@@ -1,1 +1,3 @@
-["przyznawać","uznawać","zatwierdzać"]
+przyznawać
+uznawać
+zatwierdzać

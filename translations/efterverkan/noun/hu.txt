@@ -1,1 +1,2 @@
-["utóhatás","utólagos hatás"]
+utóhatás
+utólagos hatás

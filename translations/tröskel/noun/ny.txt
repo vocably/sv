@@ -1,1 +1,2 @@
-["chiwundo","mpanda"]
+chiwundo
+mpanda

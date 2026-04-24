@@ -1,1 +1,2 @@
-["přibližně","asi"]
+přibližně
+asi

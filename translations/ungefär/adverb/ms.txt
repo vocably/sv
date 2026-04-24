@@ -1,1 +1,2 @@
-["kira-kira","lebih kurang"]
+kira-kira
+lebih kurang

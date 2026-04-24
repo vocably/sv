@@ -1,1 +1,2 @@
-["takmynan","golaý"]
+takmynan
+golaý

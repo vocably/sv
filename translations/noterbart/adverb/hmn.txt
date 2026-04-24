@@ -1,1 +1,2 @@
-["ntxim nco ntsoov","ntxim saib"]
+ntxim nco ntsoov
+ntxim saib

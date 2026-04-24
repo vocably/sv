@@ -1,1 +1,3 @@
-["erkende","tilstå","anerkende"]
+erkende
+tilstå
+anerkende

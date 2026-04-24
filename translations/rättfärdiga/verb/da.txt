@@ -1,1 +1,2 @@
-["retfærdiggøre","forsvare"]
+retfærdiggøre
+forsvare

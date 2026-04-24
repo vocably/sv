@@ -1,1 +1,2 @@
-["bishya","byiza"]
+bishya
+byiza

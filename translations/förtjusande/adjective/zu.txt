@@ -1,1 +1,2 @@
-["-hle","-mnandi"]
+-hle
+-mnandi

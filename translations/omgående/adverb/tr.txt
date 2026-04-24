@@ -1,1 +1,2 @@
-["hemen","derhal"]
+hemen
+derhal

@@ -1,1 +1,2 @@
-["kusan","tamkar"]
+kusan
+tamkar

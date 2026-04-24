@@ -1,1 +1,4 @@
-["cynllun","trefniant","defnydd","duedd"]
+cynllun
+trefniant
+defnydd
+duedd

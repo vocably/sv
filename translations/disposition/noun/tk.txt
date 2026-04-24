@@ -1,1 +1,4 @@
-["meýilnama","ygtyýar","ukyp","häsiýet"]
+meýilnama
+ygtyýar
+ukyp
+häsiýet

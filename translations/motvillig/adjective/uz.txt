@@ -1,1 +1,2 @@
-["xohlamay","istamay"]
+xohlamay
+istamay

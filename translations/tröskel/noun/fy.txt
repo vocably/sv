@@ -1,1 +1,2 @@
-["drompel","grins"]
+drompel
+grins

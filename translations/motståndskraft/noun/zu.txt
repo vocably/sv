@@ -1,1 +1,2 @@
-["amandla okumelana","ukuqina"]
+amandla okumelana
+ukuqina

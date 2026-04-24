@@ -1,1 +1,2 @@
-["overveie","vurdere"]
+overveie
+vurdere

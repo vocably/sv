@@ -1,1 +1,4 @@
-["leagan amach","diúscairt","claonadh","meon"]
+leagan amach
+diúscairt
+claonadh
+meon

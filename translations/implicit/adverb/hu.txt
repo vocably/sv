@@ -1,1 +1,2 @@
-["hallgatólag","közvetve"]
+hallgatólag
+közvetve

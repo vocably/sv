@@ -1,1 +1,2 @@
-["environ","à peu près"]
+environ
+à peu près

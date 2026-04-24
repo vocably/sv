@@ -1,1 +1,2 @@
-["pārliecināt","pierādīt"]
+pārliecināt
+pierādīt

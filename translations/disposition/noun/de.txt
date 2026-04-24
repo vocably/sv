@@ -1,1 +1,4 @@
-["die Disposition","die Anordnung","die Aufstellung","die Gliederung"]
+die Disposition
+die Anordnung
+die Aufstellung
+die Gliederung

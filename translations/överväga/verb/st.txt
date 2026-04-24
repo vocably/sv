@@ -1,1 +1,2 @@
-["nahana","lekola"]
+nahana
+lekola

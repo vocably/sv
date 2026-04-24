@@ -1,1 +1,2 @@
-["oanhâldend","stiifhalsich"]
+oanhâldend
+stiifhalsich

@@ -1,1 +1,3 @@
-["pripažinti","patvirtinti","leisti"]
+pripažinti
+patvirtinti
+leisti

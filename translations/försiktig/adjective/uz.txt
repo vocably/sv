@@ -1,1 +1,2 @@
-["ehtiyotkor","extiyotkor"]
+ehtiyotkor
+extiyotkor

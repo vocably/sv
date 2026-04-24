@@ -1,1 +1,2 @@
-["ustahimilivu","kinga"]
+ustahimilivu
+kinga

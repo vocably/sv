@@ -1,1 +1,2 @@
-["lokafatsa","etsa hore ho be le toka"]
+lokafatsa
+etsa hore ho be le toka

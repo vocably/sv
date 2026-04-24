@@ -1,1 +1,2 @@
-["breithniú","machnamh"]
+breithniú
+machnamh

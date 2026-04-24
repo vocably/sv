@@ -1,1 +1,2 @@
-["malalaka","feno"]
+malalaka
+feno

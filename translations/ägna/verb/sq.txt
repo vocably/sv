@@ -1,1 +1,2 @@
-["kushtoj","përkushtoj"]
+kushtoj
+përkushtoj

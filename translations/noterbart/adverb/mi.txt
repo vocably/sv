@@ -1,1 +1,2 @@
-["kia mōhiotia","kia kitea"]
+kia mōhiotia
+kia kitea

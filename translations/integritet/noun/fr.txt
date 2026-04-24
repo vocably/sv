@@ -1,1 +1,2 @@
-["intégrité","vie privée"]
+intégrité
+vie privée

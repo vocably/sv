@@ -1,1 +1,2 @@
-["yn nodedig","yn rhyfeddol"]
+yn nodedig
+yn rhyfeddol

@@ -1,1 +1,2 @@
-["ngari","nini"]
+ngari
+nini

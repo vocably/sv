@@ -1,1 +1,3 @@
-["atzīt","atzīties","apstiprināt"]
+atzīt
+atzīties
+apstiprināt

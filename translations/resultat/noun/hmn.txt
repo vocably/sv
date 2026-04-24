@@ -1,1 +1,2 @@
-["qhov tshwm sim","cov txiaj ntsig"]
+qhov tshwm sim
+cov txiaj ntsig

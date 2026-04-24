@@ -1,1 +1,2 @@
-["likernôch","sawat"]
+likernôch
+sawat

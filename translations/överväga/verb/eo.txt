@@ -1,1 +1,2 @@
-["pripensi","konsideri"]
+pripensi
+konsideri

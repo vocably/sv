@@ -1,1 +1,2 @@
-["gu sònraichte","gu h-iongantach"]
+gu sònraichte
+gu h-iongantach

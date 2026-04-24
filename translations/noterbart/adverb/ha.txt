@@ -1,1 +1,2 @@
-["musamman","sananne"]
+musamman
+sananne

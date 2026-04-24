@@ -1,1 +1,2 @@
-["koke koke","i kēia manawa"]
+koke koke
+i kēia manawa

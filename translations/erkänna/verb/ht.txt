@@ -1,1 +1,3 @@
-["admèt","konfese","rekonèt"]
+admèt
+konfese
+rekonèt

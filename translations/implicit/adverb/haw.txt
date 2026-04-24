@@ -1,1 +1,2 @@
-["huna","kaumoe"]
+huna
+kaumoe

@@ -1,1 +1,2 @@
-["xarmagarri","eder"]
+xarmagarri
+eder

@@ -1,1 +1,2 @@
-["étendu","vaste"]
+étendu
+vaste

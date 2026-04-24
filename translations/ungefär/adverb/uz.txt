@@ -1,1 +1,2 @@
-["taxminan","chamasi"]
+taxminan
+chamasi

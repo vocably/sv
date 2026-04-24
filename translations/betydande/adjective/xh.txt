@@ -1,1 +1,2 @@
-["balulekile","inkulu"]
+balulekile
+inkulu

@@ -1,1 +1,2 @@
-["eftirköst","eftirhrun"]
+eftirköst
+eftirhrun

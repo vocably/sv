@@ -1,1 +1,2 @@
-["vasto","ampio"]
+vasto
+ampio

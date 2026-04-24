@@ -1,1 +1,2 @@
-["fife","gbogbo"]
+fife
+gbogbo

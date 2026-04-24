@@ -1,1 +1,4 @@
-["susunan","rencana","hak","pamakéan"]
+susunan
+rencana
+hak
+pamakéan

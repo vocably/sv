@@ -1,1 +1,2 @@
-["pag-isipan","isaalang-alang"]
+pag-isipan
+isaalang-alang

@@ -1,1 +1,2 @@
-["taua","silisili"]
+taua
+silisili

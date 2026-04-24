@@ -1,1 +1,2 @@
-["ambang","had"]
+ambang
+had

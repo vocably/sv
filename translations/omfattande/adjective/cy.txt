@@ -1,1 +1,2 @@
-["eang","cynhwysfawr"]
+eang
+cynhwysfawr

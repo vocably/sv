@@ -1,1 +1,2 @@
-["oýlanmak","pikirlenmek"]
+oýlanmak
+pikirlenmek

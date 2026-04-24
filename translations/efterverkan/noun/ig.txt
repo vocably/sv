@@ -1,1 +1,2 @@
-["nsogbu","ihe na-esote"]
+nsogbu
+ihe na-esote

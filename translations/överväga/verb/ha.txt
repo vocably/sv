@@ -1,1 +1,2 @@
-["yi la'akari","yi tunani"]
+yi la'akari
+yi tunani

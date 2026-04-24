@@ -1,1 +1,2 @@
-["e'tiborga molik","sezilarli"]
+e'tiborga molik
+sezilarli

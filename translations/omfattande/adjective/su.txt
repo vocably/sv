@@ -1,1 +1,2 @@
-["lega","jembar"]
+lega
+jembar

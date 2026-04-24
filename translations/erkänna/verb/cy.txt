@@ -1,1 +1,3 @@
-["cydnabod","cyfaddef","ardystio"]
+cydnabod
+cyfaddef
+ardystio

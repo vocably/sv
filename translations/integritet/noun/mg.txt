@@ -1,1 +1,2 @@
-["fahamendrehana","fahaleovantena"]
+fahamendrehana
+fahaleovantena

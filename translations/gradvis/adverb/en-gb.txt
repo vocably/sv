@@ -1,1 +1,2 @@
-["gradual","step-by-step"]
+gradual
+step-by-step

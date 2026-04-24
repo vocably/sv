@@ -1,1 +1,2 @@
-["ungefähr","etwa"]
+ungefähr
+etwa

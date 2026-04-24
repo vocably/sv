@@ -1,1 +1,2 @@
-["overwegen","nadenken"]
+overwegen
+nadenken

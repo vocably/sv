@@ -1,1 +1,2 @@
-["si la dareemo","si la xuso"]
+si la dareemo
+si la xuso

@@ -1,1 +1,2 @@
-["umuryango","intangiriro"]
+umuryango
+intangiriro

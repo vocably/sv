@@ -1,1 +1,4 @@
-["hoʻonohonoho","hoʻolālā","mana","ʻano"]
+hoʻonohonoho
+hoʻolālā
+mana
+ʻano

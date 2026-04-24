@@ -1,1 +1,2 @@
-["vakuuttaa","todistaa"]
+vakuuttaa
+todistaa

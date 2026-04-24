@@ -1,1 +1,2 @@
-["integriteit","onaantastbaarheid"]
+integriteit
+onaantastbaarheid

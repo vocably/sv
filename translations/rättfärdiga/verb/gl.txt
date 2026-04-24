@@ -1,1 +1,2 @@
-["xustificar","defender"]
+xustificar
+defender

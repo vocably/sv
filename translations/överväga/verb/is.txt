@@ -1,1 +1,2 @@
-["íhuga","vega og meta"]
+íhuga
+vega og meta

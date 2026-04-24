@@ -1,1 +1,2 @@
-["mga","halos"]
+mga
+halos

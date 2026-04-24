@@ -1,1 +1,2 @@
-["pasamano","hangganan"]
+pasamano
+hangganan

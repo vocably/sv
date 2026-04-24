@@ -1,1 +1,2 @@
-["kuregeredza","kusateerera"]
+kuregeredza
+kusateerera

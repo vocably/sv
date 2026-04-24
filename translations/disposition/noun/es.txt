@@ -1,1 +1,4 @@
-["disposición","plan","diseño","estructura"]
+disposición
+plan
+diseño
+estructura

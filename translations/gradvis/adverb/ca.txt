@@ -1,1 +1,2 @@
-["gradual","progressiu"]
+gradual
+progressiu

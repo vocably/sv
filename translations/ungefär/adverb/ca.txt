@@ -1,1 +1,2 @@
-["aproximadament","gairebé"]
+aproximadament
+gairebé

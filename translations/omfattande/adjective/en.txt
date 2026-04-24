@@ -1,1 +1,2 @@
-["extensive","comprehensive"]
+extensive
+comprehensive

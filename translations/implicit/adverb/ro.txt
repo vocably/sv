@@ -1,1 +1,2 @@
-["implicit","subînțeles"]
+implicit
+subînțeles

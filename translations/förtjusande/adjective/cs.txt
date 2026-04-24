@@ -1,1 +1,2 @@
-["okouzlující","půvabný"]
+okouzlující
+půvabný

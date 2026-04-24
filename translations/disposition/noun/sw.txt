@@ -1,1 +1,4 @@
-["mpangilio","haki","tabia","mwelekeo"]
+mpangilio
+haki
+tabia
+mwelekeo

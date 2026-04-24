@@ -1,1 +1,2 @@
-["pwogresivman","tikras pa tikras"]
+pwogresivman
+tikras pa tikras

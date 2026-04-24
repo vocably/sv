@@ -1,1 +1,2 @@
-["maingat","ingat"]
+maingat
+ingat

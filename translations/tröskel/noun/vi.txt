@@ -1,1 +1,2 @@
-["ngưỡng cửa","ngưỡng"]
+ngưỡng cửa
+ngưỡng

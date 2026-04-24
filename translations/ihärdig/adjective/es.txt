@@ -1,1 +1,2 @@
-["perseverante","tenaz"]
+perseverante
+tenaz

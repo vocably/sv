@@ -1,1 +1,2 @@
-["zeharkako","ezkutuko"]
+zeharkako
+ezkutuko

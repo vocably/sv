@@ -1,1 +1,2 @@
-["mafaufauina","iloga"]
+mafaufauina
+iloga

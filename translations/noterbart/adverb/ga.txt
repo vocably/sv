@@ -1,1 +1,2 @@
-["go hiontach","go suntasach"]
+go hiontach
+go suntasach

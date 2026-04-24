@@ -1,1 +1,2 @@
-["aproximativ","cam"]
+aproximativ
+cam

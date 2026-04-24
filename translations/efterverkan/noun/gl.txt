@@ -1,1 +1,2 @@
-["efecto secundario","secuela"]
+efecto secundario
+secuela

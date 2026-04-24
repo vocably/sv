@@ -1,1 +1,4 @@
-["dispositsioon","käsutus","eelsoodumus","iseloom"]
+dispositsioon
+käsutus
+eelsoodumus
+iseloom

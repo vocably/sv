@@ -1,1 +1,2 @@
-["trothwy","ffin"]
+trothwy
+ffin

@@ -1,1 +1,2 @@
-["figyelemre méltóan","jelentősen"]
+figyelemre méltóan
+jelentősen

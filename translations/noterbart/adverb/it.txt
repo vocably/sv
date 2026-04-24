@@ -1,1 +1,2 @@
-["notevolmente","in modo notevole"]
+notevolmente
+in modo notevole

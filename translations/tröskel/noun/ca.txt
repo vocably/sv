@@ -1,1 +1,2 @@
-["llindar","seuil"]
+llindar
+seuil

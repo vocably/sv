@@ -1,1 +1,2 @@
-["bütünlük","dokunulmazlık"]
+bütünlük
+dokunulmazlık

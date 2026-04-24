@@ -1,1 +1,2 @@
-["garrantzitsu","nabarmen"]
+garrantzitsu
+nabarmen

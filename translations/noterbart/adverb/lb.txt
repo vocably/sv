@@ -1,1 +1,2 @@
-["bemierkenswäert","opmierksam"]
+bemierkenswäert
+opmierksam

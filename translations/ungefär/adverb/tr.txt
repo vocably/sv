@@ -1,1 +1,2 @@
-["yaklaşık","aşağı yukarı"]
+yaklaşık
+aşağı yukarı

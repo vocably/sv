@@ -1,1 +1,2 @@
-["dolayı","vasitəsilə"]
+dolayı
+vasitəsilə

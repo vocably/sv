@@ -1,1 +1,4 @@
-["disposisi","pengaturan","rencana","susunan"]
+disposisi
+pengaturan
+rencana
+susunan

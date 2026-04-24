@@ -1,1 +1,2 @@
-["c ingcamango","c ingqiqo"]
+c ingcamango
+c ingqiqo

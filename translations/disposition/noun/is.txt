@@ -1,1 +1,4 @@
-["skipulag","ráðstöfun","tilhneiging","lyndiseinkunn"]
+skipulag
+ráðstöfun
+tilhneiging
+lyndiseinkunn

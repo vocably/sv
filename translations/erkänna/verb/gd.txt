@@ -1,1 +1,3 @@
-["aideachadh","aidmheil","agallamh"]
+aideachadh
+aidmheil
+agallamh

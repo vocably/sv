@@ -1,1 +1,2 @@
-["strascico","postumo"]
+strascico
+postumo

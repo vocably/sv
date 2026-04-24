@@ -1,1 +1,2 @@
-["ihærdig","vedholdende"]
+ihærdig
+vedholdende

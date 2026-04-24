@@ -1,1 +1,2 @@
-["tlachdmhor","àlainn"]
+tlachdmhor
+àlainn

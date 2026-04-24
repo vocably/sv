@@ -1,1 +1,2 @@
-["adatabishaka","ashidikanya"]
+adatabishaka
+ashidikanya

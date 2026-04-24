@@ -1,1 +1,2 @@
-["onmiddellijk","direct"]
+onmiddellijk
+direct

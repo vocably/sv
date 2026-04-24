@@ -1,1 +1,2 @@
-["séquelle","contrecoup"]
+séquelle
+contrecoup

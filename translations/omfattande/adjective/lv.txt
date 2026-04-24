@@ -1,1 +1,2 @@
-["plašs","visaptverošs"]
+plašs
+visaptverošs

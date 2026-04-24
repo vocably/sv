@@ -1,1 +1,2 @@
-["kusita","pingamizi"]
+kusita
+pingamizi

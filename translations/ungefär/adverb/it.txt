@@ -1,1 +1,2 @@
-["circa","all'incirca"]
+circa
+all'incirca

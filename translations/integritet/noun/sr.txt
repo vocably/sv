@@ -1,1 +1,2 @@
-["integritet","nepovredivost"]
+integritet
+nepovredivost

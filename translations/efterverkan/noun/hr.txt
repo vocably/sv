@@ -1,1 +1,2 @@
-["posljedica","nuspojava"]
+posljedica
+nuspojava

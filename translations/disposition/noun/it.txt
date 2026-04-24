@@ -1,1 +1,4 @@
-["disposizione","piano","predisposizione","indole"]
+disposizione
+piano
+predisposizione
+indole

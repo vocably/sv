@@ -1,1 +1,2 @@
-["prag","granica"]
+prag
+granica

@@ -1,1 +1,2 @@
-["žavingas","kerintis"]
+žavingas
+kerintis

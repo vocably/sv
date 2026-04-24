@@ -1,1 +1,2 @@
-["dözümlü","səbirli"]
+dözümlü
+səbirli

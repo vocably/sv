@@ -1,1 +1,3 @@
-["admitir","confesar","recoñecer"]
+admitir
+confesar
+recoñecer

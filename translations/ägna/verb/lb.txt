@@ -1,1 +1,2 @@
-["widmen","verbréngen"]
+widmen
+verbréngen

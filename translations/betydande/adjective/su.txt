@@ -1,1 +1,2 @@
-["penting","kawentar"]
+penting
+kawentar

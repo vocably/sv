@@ -1,1 +1,2 @@
-["rộng lớn","bao quát"]
+rộng lớn
+bao quát

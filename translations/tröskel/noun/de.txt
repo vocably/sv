@@ -1,1 +1,2 @@
-["Schwelle","Grenze"]
+Schwelle
+Grenze

@@ -1,1 +1,2 @@
-["suficient","destul"]
+suficient
+destul

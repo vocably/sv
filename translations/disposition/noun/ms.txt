@@ -1,1 +1,8 @@
-["pelan","susun atur","hak pelupusan","penggunaan","kecenderungan","kerentanan","sifat","perwatakan"]
+pelan
+susun atur
+hak pelupusan
+penggunaan
+kecenderungan
+kerentanan
+sifat
+perwatakan

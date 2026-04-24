@@ -1,1 +1,2 @@
-["vanrækja","fyrirgera"]
+vanrækja
+fyrirgera

@@ -1,1 +1,2 @@
-["önemli","dikkate değer"]
+önemli
+dikkate değer

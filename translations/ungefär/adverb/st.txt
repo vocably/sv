@@ -1,1 +1,2 @@
-["hoo e ka bang","e batla e le"]
+hoo e ka bang
+e batla e le

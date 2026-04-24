@@ -1,1 +1,2 @@
-["prag","prag de sus"]
+prag
+prag de sus

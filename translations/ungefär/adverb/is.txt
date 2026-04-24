@@ -1,1 +1,2 @@
-["um það bil","svipað"]
+um það bil
+svipað

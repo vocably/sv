@@ -1,1 +1,2 @@
-["i kujdesshëm","zemërbutë"]
+i kujdesshëm
+zemërbutë

@@ -1,1 +1,4 @@
-["dispozisiya","sərəncam","meyl","xasiyyət"]
+dispozisiya
+sərəncam
+meyl
+xasiyyət

@@ -1,1 +1,2 @@
-["xalimasliq","istiksiz"]
+xalimasliq
+istiksiz

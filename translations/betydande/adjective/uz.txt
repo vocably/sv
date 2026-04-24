@@ -1,1 +1,2 @@
-["muhim","ahamiyatli"]
+muhim
+ahamiyatli

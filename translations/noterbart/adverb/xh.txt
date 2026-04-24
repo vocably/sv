@@ -1,1 +1,2 @@
-["ngokubalulekileyo","ngokuphawulekayo"]
+ngokubalulekileyo
+ngokuphawulekayo

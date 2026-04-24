@@ -1,1 +1,2 @@
-["ase","sifizan"]
+ase
+sifizan

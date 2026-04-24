@@ -1,1 +1,2 @@
-["pēcefekts","sekas"]
+pēcefekts
+sekas

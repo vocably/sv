@@ -1,1 +1,2 @@
-["platus","išsamus"]
+platus
+išsamus

@@ -1,1 +1,2 @@
-["ähtiyatly","seresap"]
+ähtiyatly
+seresap

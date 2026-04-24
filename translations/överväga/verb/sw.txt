@@ -1,1 +1,2 @@
-["kufikiria","kutafakari"]
+kufikiria
+kutafakari

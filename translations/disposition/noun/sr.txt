@@ -1,1 +1,4 @@
-["raspoloženje","sklonost","raspolaganje","dispozicija"]
+raspoloženje
+sklonost
+raspolaganje
+dispozicija

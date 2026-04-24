@@ -1,1 +1,2 @@
-["ngurrues","pa dëshirë"]
+ngurrues
+pa dëshirë

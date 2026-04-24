@@ -1,1 +1,2 @@
-["gutekereza","kwiyumvira"]
+gutekereza
+kwiyumvira

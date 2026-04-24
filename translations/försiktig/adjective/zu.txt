@@ -1,1 +1,2 @@
-["qaphela","isixwayiso"]
+qaphela
+isixwayiso

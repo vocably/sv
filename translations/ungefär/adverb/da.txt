@@ -1,1 +1,2 @@
-["cirka","omtrent"]
+cirka
+omtrent

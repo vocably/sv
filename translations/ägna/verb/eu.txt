@@ -1,1 +1,2 @@
-["eskaini","dedikatu"]
+eskaini
+dedikatu

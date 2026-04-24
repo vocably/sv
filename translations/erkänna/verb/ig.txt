@@ -1,1 +1,3 @@
-["kweta","nara","nye"]
+kweta
+nara
+nye

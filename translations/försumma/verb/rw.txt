@@ -1,1 +1,2 @@
-["kwirengagiza","kutita"]
+kwirengagiza
+kutita

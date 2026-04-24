@@ -1,1 +1,2 @@
-["apsvarstyti","svarstyti"]
+apsvarstyti
+svarstyti

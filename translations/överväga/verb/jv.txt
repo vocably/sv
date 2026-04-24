@@ -1,1 +1,2 @@
-["nggayemi","nimbang"]
+nggayemi
+nimbang

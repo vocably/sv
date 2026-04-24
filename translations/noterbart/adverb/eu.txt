@@ -1,1 +1,2 @@
-["nabarmen","aipagarri"]
+nabarmen
+aipagarri

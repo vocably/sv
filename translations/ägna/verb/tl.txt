@@ -1,1 +1,2 @@
-["gumugol","ialay"]
+gumugol
+ialay

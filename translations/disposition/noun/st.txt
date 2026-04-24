@@ -1,1 +1,4 @@
-["tokiso","tshwanelo","bokgoni","sebopeho"]
+tokiso
+tshwanelo
+bokgoni
+sebopeho

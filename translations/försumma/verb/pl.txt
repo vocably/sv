@@ -1,1 +1,2 @@
-["zaniedbywać","pomijać"]
+zaniedbywać
+pomijać

@@ -1,1 +1,2 @@
-["bedeitend","wichteg"]
+bedeitend
+wichteg

@@ -1,1 +1,2 @@
-["yashirincha","ko'zga tashlanmaydigan"]
+yashirincha
+ko'zga tashlanmaydigan

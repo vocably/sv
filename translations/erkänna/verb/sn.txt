@@ -1,1 +1,3 @@
-["kubvuma","kureurura","kusimbisa"]
+kubvuma
+kureurura
+kusimbisa

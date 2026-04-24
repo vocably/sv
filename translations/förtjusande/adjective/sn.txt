@@ -1,1 +1,2 @@
-["runako","akanaka"]
+runako
+akanaka

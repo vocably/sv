@@ -1,1 +1,4 @@
-["disposisyon","plano","pagkiling","ugali"]
+disposisyon
+plano
+pagkiling
+ugali

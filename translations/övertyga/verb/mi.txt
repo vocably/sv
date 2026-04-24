@@ -1,1 +1,2 @@
-["whakapono","whakaū"]
+whakapono
+whakaū

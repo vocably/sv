@@ -1,1 +1,2 @@
-["kapansin-pansin","kahanga-hanga"]
+kapansin-pansin
+kahanga-hanga

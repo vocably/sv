@@ -1,1 +1,2 @@
-["impurtante","significativu"]
+impurtante
+significativu

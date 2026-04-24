@@ -1,1 +1,2 @@
-["lë pas dore","negli zhoj"]
+lë pas dore
+negli zhoj

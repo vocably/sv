@@ -1,1 +1,2 @@
-["ayırmak","adamak"]
+ayırmak
+adamak

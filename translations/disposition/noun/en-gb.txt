@@ -1,1 +1,4 @@
-["disposition","arrangement","predisposition","temperament"]
+disposition
+arrangement
+predisposition
+temperament

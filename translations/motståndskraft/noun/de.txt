@@ -1,1 +1,2 @@
-["Widerstandsfähigkeit","Resilienz"]
+Widerstandsfähigkeit
+Resilienz

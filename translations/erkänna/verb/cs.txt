@@ -1,1 +1,3 @@
-["přiznat","uznat","přiznat si"]
+přiznat
+uznat
+přiznat si

@@ -1,1 +1,2 @@
-["ampleksa","vasta"]
+ampleksa
+vasta

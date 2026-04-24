@@ -1,1 +1,2 @@
-["bosaga","eşik"]
+bosaga
+eşik

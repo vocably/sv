@@ -1,1 +1,2 @@
-["seqüela","efecte"]
+seqüela
+efecte

@@ -1,1 +1,2 @@
-["ellenállóképesség","állóképesség"]
+ellenállóképesség
+állóképesség

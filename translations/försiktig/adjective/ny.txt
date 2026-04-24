@@ -1,1 +1,2 @@
-["wanzeru","mosamala"]
+wanzeru
+mosamala

@@ -1,1 +1,2 @@
-["kira-kira","watara"]
+kira-kira
+watara

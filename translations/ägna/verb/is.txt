@@ -1,1 +1,2 @@
-["verja","helga"]
+verja
+helga

@@ -1,1 +1,2 @@
-["þrautseigur","seigur"]
+þrautseigur
+seigur

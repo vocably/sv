@@ -1,1 +1,2 @@
-["märkimisväärselt","tähelepanuväärselt"]
+märkimisväärselt
+tähelepanuväärselt

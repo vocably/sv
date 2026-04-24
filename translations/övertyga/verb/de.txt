@@ -1,1 +1,2 @@
-["überzeugen","beweisen"]
+überzeugen
+beweisen

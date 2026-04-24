@@ -1,1 +1,2 @@
-["laqeyd yanaşmaq","yerinə yetirməmək"]
+laqeyd yanaşmaq
+yerinə yetirməmək

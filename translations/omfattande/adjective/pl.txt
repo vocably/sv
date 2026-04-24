@@ -1,1 +1,2 @@
-["obszerny","rozległy"]
+obszerny
+rozległy

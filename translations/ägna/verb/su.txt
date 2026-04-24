@@ -1,1 +1,2 @@
-["ngagunakeun","nyanggakeun"]
+ngagunakeun
+nyanggakeun

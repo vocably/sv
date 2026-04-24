@@ -1,1 +1,2 @@
-["iar-bhua","iar-bhuaidh"]
+iar-bhua
+iar-bhuaidh

@@ -1,1 +1,2 @@
-["Kuzvitonga","Kusapatsa"]
+Kuzvitonga
+Kusapatsa

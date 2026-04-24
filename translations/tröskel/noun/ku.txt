@@ -1,1 +1,2 @@
-["binkey","astane"]
+binkey
+astane

@@ -1,1 +1,2 @@
-["puuza","ghafilika"]
+puuza
+ghafilika

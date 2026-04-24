@@ -1,1 +1,4 @@
-["nhazi","mkpebi","ochicho","omume"]
+nhazi
+mkpebi
+ochicho
+omume

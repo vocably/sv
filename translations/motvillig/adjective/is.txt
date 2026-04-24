@@ -1,1 +1,2 @@
-["tregur","óviljugur"]
+tregur
+óviljugur

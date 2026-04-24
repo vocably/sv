@@ -1,1 +1,2 @@
-["cukup","saakehe"]
+cukup
+saakehe

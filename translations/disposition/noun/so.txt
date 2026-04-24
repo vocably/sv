@@ -1,1 +1,4 @@
-["qabanqaabo","diyaarin","isticmaal","dabeecad"]
+qabanqaabo
+diyaarin
+isticmaal
+dabeecad

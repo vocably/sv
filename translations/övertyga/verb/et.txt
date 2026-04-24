@@ -1,1 +1,2 @@
-["veenda","tõestama"]
+veenda
+tõestama

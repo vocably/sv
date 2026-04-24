@@ -1,1 +1,2 @@
-["następstwo","skutek"]
+następstwo
+skutek

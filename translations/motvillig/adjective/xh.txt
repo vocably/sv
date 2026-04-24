@@ -1,1 +1,2 @@
-["ongafuni","ongathandi"]
+ongafuni
+ongathandi

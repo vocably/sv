@@ -1,1 +1,4 @@
-["disposition","arrangement","tendance","humeur"]
+disposition
+arrangement
+tendance
+humeur

@@ -1,1 +1,2 @@
-["vastu","cumplessivu"]
+vastu
+cumplessivu

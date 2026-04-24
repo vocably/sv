@@ -1,1 +1,2 @@
-["endirek","tasan"]
+endirek
+tasan

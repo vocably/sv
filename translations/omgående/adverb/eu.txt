@@ -1,1 +1,2 @@
-["berehala","arriskuan"]
+berehala
+arriskuan

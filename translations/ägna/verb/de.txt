@@ -1,1 +1,2 @@
-["widmen","verbringen"]
+widmen
+verbringen

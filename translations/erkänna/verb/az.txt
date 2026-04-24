@@ -1,1 +1,3 @@
-["etiraf etmək","boynuna almaq","təsdiq etmək"]
+etiraf etmək
+boynuna almaq
+təsdiq etmək

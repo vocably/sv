@@ -1,1 +1,2 @@
-["odporność","wytrzymałość"]
+odporność
+wytrzymałość

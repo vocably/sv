@@ -1,1 +1,4 @@
-["düzen","tasarım","eğilim","huy"]
+düzen
+tasarım
+eğilim
+huy

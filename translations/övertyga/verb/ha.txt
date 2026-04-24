@@ -1,1 +1,2 @@
-["shaida","tabbatar"]
+shaida
+tabbatar

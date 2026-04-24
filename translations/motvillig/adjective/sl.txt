@@ -1,1 +1,2 @@
-["nerad","odklonilen"]
+nerad
+odklonilen

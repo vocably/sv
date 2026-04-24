@@ -1,1 +1,2 @@
-["unyamezelayo","ozingisayo"]
+unyamezelayo
+ozingisayo

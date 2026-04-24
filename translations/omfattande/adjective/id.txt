@@ -1,1 +1,2 @@
-["luas","komprehensif"]
+luas
+komprehensif

@@ -1,1 +1,2 @@
-["baaxad weyn","ballaaran"]
+baaxad weyn
+ballaaran

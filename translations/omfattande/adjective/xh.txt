@@ -1,1 +1,2 @@
-["banzi","inkulu"]
+banzi
+inkulu

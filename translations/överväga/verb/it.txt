@@ -1,1 +1,2 @@
-["considerare","valutare"]
+considerare
+valutare

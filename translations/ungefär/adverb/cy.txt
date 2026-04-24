@@ -1,1 +1,2 @@
-["tua","oddeutu"]
+tua
+oddeutu

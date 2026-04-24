@@ -1,1 +1,2 @@
-["galyndy","netije"]
+galyndy
+netije

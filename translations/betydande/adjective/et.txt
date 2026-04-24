@@ -1,1 +1,2 @@
-["oluline","märkimisväärne"]
+oluline
+märkimisväärne

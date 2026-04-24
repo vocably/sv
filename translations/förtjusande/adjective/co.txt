@@ -1,1 +1,2 @@
-["incantevule","deliziosu"]
+incantevule
+deliziosu

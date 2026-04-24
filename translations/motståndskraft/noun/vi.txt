@@ -1,1 +1,2 @@
-["sức đề kháng","khả năng chống chịu"]
+sức đề kháng
+khả năng chống chịu

@@ -1,1 +1,2 @@
-["pono","kuokoa"]
+pono
+kuokoa

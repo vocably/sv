@@ -1,1 +1,2 @@
-["umoyo wanu","ufulu"]
+umoyo wanu
+ufulu

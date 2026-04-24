@@ -1,1 +1,2 @@
-["lieflik","pragtig"]
+lieflik
+pragtig

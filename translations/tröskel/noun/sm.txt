@@ -1,1 +1,2 @@
-["paepae","amata"]
+paepae
+amata

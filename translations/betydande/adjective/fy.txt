@@ -1,1 +1,2 @@
-["wichtich","foaroansteand"]
+wichtich
+foaroansteand

@@ -1,1 +1,4 @@
-["dispozícia","rozloženie","usporiadanie","náchylnosť"]
+dispozícia
+rozloženie
+usporiadanie
+náchylnosť

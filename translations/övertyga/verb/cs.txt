@@ -1,1 +1,2 @@
-["přesvědčit","dokázat"]
+přesvědčit
+dokázat

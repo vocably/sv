@@ -1,1 +1,2 @@
-["yeterince","yeterli"]
+yeterince
+yeterli

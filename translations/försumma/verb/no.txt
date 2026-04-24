@@ -1,1 +1,2 @@
-["forsømme","unnlate"]
+forsømme
+unnlate

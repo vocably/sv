@@ -1,1 +1,2 @@
-["umnyango","isango"]
+umnyango
+isango

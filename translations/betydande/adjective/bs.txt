@@ -1,1 +1,2 @@
-["značajan","bitan"]
+značajan
+bitan

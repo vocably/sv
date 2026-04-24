@@ -1,1 +1,2 @@
-["cudromach","follaiseach"]
+cudromach
+follaiseach

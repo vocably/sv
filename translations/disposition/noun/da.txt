@@ -1,1 +1,4 @@
-["disposition","anlæg","karakter","sind"]
+disposition
+anlæg
+karakter
+sind

@@ -1,1 +1,2 @@
-["efek samping","akibat"]
+efek samping
+akibat

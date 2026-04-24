@@ -1,1 +1,2 @@
-["posledica","efekat"]
+posledica
+efekat

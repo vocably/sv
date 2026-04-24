@@ -1,1 +1,2 @@
-["ki pèsevere","ki tenas"]
+ki pèsevere
+ki tenas

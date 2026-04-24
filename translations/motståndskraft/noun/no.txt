@@ -1,1 +1,2 @@
-["motstandskraft","robusthet"]
+motstandskraft
+robusthet

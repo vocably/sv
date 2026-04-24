@@ -1,1 +1,2 @@
-["puutumatus","terviklikkus"]
+puutumatus
+terviklikkus

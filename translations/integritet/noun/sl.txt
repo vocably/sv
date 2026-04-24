@@ -1,1 +1,2 @@
-["integriteta","nedotakljivost"]
+integriteta
+nedotakljivost

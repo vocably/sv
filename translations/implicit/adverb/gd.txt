@@ -1,1 +1,2 @@
-["neo-dhìreach","gun a bhith follaiseach"]
+neo-dhìreach
+gun a bhith follaiseach

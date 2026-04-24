@@ -1,1 +1,2 @@
-["küszöb","határ"]
+küszöb
+határ

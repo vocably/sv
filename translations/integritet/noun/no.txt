@@ -1,1 +1,2 @@
-["integritet","ukrenkelighet"]
+integritet
+ukrenkelighet

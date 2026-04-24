@@ -1,1 +1,2 @@
-["ihuga","iverig"]
+ihuga
+iverig

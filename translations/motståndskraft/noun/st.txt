@@ -1,1 +1,2 @@
-["mamello","khanyetso"]
+mamello
+khanyetso

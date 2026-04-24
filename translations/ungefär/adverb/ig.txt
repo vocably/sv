@@ -1,1 +1,2 @@
-["ihe dika","ihe ruru"]
+ihe dika
+ihe ruru

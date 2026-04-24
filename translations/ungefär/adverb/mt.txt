@@ -1,1 +1,2 @@
-["madwar","bejn wieħed u ieħor"]
+madwar
+bejn wieħed u ieħor

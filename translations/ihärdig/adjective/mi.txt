@@ -1,1 +1,2 @@
-["ū tonu","pūmau"]
+ū tonu
+pūmau

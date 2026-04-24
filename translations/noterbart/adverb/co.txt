@@ -1,1 +1,2 @@
-["nutèvule","rimarchevule"]
+nutèvule
+rimarchevule

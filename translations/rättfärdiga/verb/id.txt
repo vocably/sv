@@ -1,1 +1,2 @@
-["membenarkan","membela"]
+membenarkan
+membela

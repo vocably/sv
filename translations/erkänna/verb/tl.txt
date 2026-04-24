@@ -1,1 +1,3 @@
-["aminin","kilalanin","ipagtapat"]
+aminin
+kilalanin
+ipagtapat

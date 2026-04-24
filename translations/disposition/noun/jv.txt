@@ -1,1 +1,4 @@
-["pranatan","tata","sipat","watak"]
+pranatan
+tata
+sipat
+watak

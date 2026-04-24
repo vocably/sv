@@ -1,1 +1,2 @@
-["besteden","wijden"]
+besteden
+wijden

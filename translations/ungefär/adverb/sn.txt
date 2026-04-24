@@ -1,1 +1,2 @@
-["rinenge","anenge"]
+rinenge
+anenge

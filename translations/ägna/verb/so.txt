@@ -1,1 +1,2 @@
-["u hur","waqti galin"]
+u hur
+waqti galin

@@ -1,1 +1,2 @@
-["zabala","handia"]
+zabala
+handia

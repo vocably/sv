@@ -1,1 +1,2 @@
-["treulio","cyflwyno"]
+treulio
+cyflwyno

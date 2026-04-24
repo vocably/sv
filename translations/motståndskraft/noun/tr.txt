@@ -1,1 +1,2 @@
-["direnç","mukavemet"]
+direnç
+mukavemet

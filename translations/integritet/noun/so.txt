@@ -1,1 +1,2 @@
-["daacadnimo","sharafnimo"]
+daacadnimo
+sharafnimo

@@ -1,1 +1,2 @@
-["ievērojami","zīmīgi"]
+ievērojami
+zīmīgi

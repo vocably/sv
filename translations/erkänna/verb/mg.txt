@@ -1,1 +1,3 @@
-["miaiky","maneky","mankatoa"]
+miaiky
+maneky
+mankatoa

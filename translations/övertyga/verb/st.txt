@@ -1,1 +1,2 @@
-["ho kholisa","ho paka"]
+ho kholisa
+ho paka

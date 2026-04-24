@@ -1,1 +1,2 @@
-["Schwell","Träschtel"]
+Schwell
+Träschtel

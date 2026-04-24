@@ -1,1 +1,2 @@
-["erwägen","überlegen"]
+erwägen
+überlegen

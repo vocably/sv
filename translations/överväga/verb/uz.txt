@@ -1,1 +1,2 @@
-["o'ylab ko'rmoq","mulohaza yuritmoq"]
+o'ylab ko'rmoq
+mulohaza yuritmoq

@@ -1,1 +1,2 @@
-["manan-danja","lehibe"]
+manan-danja
+lehibe

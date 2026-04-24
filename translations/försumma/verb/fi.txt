@@ -1,1 +1,2 @@
-["laiminlyödä","jättää tekemättä"]
+laiminlyödä
+jättää tekemättä

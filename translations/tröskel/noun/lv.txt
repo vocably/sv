@@ -1,1 +1,2 @@
-["slieksnis","robeža"]
+slieksnis
+robeža

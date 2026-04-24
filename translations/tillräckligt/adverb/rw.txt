@@ -1,1 +1,2 @@
-["bihagije","ibikenewe"]
+bihagije
+ibikenewe

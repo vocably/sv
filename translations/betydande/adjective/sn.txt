@@ -1,1 +1,2 @@
-["rinani","chikuru"]
+rinani
+chikuru

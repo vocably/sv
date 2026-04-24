@@ -1,1 +1,2 @@
-["kev cuam tshuam","kev tshuam"]
+kev cuam tshuam
+kev tshuam

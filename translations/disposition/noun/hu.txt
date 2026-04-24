@@ -1,1 +1,4 @@
-["elrendezés","rendelkezés","hajlam","kedély"]
+elrendezés
+rendelkezés
+hajlam
+kedély

@@ -1,1 +1,2 @@
-["düşünmək","fikirləşmək"]
+düşünmək
+fikirləşmək

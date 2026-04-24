@@ -1,1 +1,2 @@
-["ehtiyat","säkkiz"]
+ehtiyat
+säkkiz

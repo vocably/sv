@@ -1,1 +1,2 @@
-["takriban","karibu"]
+takriban
+karibu

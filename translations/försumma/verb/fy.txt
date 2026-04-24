@@ -1,1 +1,2 @@
-["fersomme","negearje"]
+fersomme
+negearje

@@ -1,1 +1,2 @@
-["ƙofa","iyaka"]
+ƙofa
+iyaka

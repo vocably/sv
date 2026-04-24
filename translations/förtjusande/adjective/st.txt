@@ -1,1 +1,2 @@
-["e ratehang","e kgahlehang"]
+e ratehang
+e kgahlehang

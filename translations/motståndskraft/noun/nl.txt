@@ -1,1 +1,2 @@
-["weerstand","weerstandsvermogen"]
+weerstand
+weerstandsvermogen

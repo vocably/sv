@@ -1,1 +1,2 @@
-["lankhulani","kufotokozani"]
+lankhulani
+kufotokozani

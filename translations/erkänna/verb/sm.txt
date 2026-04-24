@@ -1,1 +1,3 @@
-["talia","fa'amaonia","ta'utino"]
+talia
+fa'amaonia
+ta'utino

@@ -1,1 +1,3 @@
-["mengakui","mengiktiraf","mengesahkan"]
+mengakui
+mengiktiraf
+mengesahkan

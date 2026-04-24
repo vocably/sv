@@ -1,1 +1,2 @@
-["daxlsizlik","butunlik"]
+daxlsizlik
+butunlik

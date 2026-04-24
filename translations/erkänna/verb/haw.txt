@@ -1,1 +1,3 @@
-["ʻae","hāpai","hoʻomaopopo"]
+ʻae
+hāpai
+hoʻomaopopo

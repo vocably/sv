@@ -1,1 +1,2 @@
-["ileghara anya","echefu"]
+ileghara anya
+echefu

@@ -1,1 +1,2 @@
-["gradwali","bil-mod"]
+gradwali
+bil-mod

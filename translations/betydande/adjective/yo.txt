@@ -1,1 +1,2 @@
-["pataki","gbajugbaja"]
+pataki
+gbajugbaja

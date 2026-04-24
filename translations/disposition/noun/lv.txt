@@ -1,1 +1,4 @@
-["izkārtojums","rīcība","nosliece","raksturs"]
+izkārtojums
+rīcība
+nosliece
+raksturs

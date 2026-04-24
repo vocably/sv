@@ -1,1 +1,2 @@
-["võluv","lummav"]
+võluv
+lummav

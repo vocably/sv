@@ -1,1 +1,2 @@
-["ukukholisa","ukuqinisekisa"]
+ukukholisa
+ukuqinisekisa

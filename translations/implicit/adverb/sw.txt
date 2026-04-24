@@ -1,1 +1,2 @@
-["kwa kudokeza","kwa kuficha"]
+kwa kudokeza
+kwa kuficha

@@ -1,1 +1,2 @@
-["gbara obosara","ukwu"]
+gbara obosara
+ukwu

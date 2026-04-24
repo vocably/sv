@@ -1,1 +1,2 @@
-["thethelela","lungisa"]
+thethelela
+lungisa

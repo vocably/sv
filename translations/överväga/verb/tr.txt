@@ -1,1 +1,2 @@
-["düşünmek","tasarlamak"]
+düşünmek
+tasarlamak

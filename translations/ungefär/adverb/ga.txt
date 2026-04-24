@@ -1,1 +1,2 @@
-["thart ar","timpeall"]
+thart ar
+timpeall

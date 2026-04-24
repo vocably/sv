@@ -1,1 +1,2 @@
-["yndirekt","stilswijgend"]
+yndirekt
+stilswijgend

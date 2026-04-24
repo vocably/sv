@@ -1,1 +1,4 @@
-["bố trí","sắp đặt","khuynh hướng","tính khí"]
+bố trí
+sắp đặt
+khuynh hướng
+tính khí

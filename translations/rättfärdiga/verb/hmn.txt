@@ -1,1 +1,2 @@
-["ua kom yog","tso cai"]
+ua kom yog
+tso cai

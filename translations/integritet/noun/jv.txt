@@ -1,1 +1,2 @@
-["integritas","kamardikan"]
+integritas
+kamardikan

@@ -1,1 +1,2 @@
-["marar","ba ya so"]
+marar
+ba ya so

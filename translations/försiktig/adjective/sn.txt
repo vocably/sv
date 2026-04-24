@@ -1,1 +1,2 @@
-["kungwarira","ngwaru"]
+kungwarira
+ngwaru

@@ -1,1 +1,2 @@
-["malosi","onosa'i"]
+malosi
+onosa'i

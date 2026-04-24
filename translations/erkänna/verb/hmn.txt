@@ -1,1 +1,3 @@
-["lees","lees txim","pom zoo"]
+lees
+lees txim
+pom zoo

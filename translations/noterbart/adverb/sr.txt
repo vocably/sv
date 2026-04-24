@@ -1,1 +1,2 @@
-["značajno","primetno"]
+značajno
+primetno

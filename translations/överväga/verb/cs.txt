@@ -1,1 +1,2 @@
-["zvažovat","uvažovat"]
+zvažovat
+uvažovat

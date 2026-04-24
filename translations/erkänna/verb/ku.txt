@@ -1,1 +1,3 @@
-["danpêdanîn","mikurhatin","pejirandin"]
+danpêdanîn
+mikurhatin
+pejirandin
