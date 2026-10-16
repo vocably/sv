@@ -1,0 +1,3 @@
+state
+declare
+give up

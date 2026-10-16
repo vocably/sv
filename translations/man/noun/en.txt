@@ -1,0 +1,4 @@
+man
+husband
+person
+employee

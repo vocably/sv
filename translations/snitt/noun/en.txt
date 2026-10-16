@@ -1,0 +1,4 @@
+cut
+section
+average
+slice

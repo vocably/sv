@@ -1,0 +1,3 @@
+borders
+adjoins
+is adjacent to

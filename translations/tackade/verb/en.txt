@@ -1,0 +1,3 @@
+thanked
+declined
+accepted

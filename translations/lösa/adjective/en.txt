@@ -1,0 +1,4 @@
+loose
+unattached
+unbound
+easy

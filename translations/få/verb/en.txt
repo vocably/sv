@@ -1,0 +1,4 @@
+get
+receive
+may
+be allowed to

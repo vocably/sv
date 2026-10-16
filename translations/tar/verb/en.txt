@@ -1,0 +1,4 @@
+takes
+gets
+uses
+takes (time)

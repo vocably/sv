@@ -1,0 +1,3 @@
+hospitalized
+admitted
+imprisoned

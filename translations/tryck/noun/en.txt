@@ -1,0 +1,4 @@
+pressure
+print
+edition
+stress

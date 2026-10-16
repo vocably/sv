@@ -1,0 +1,3 @@
+stiff
+rigid
+formal

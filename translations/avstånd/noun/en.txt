@@ -1,0 +1,3 @@
+distance
+gap
+remoteness
